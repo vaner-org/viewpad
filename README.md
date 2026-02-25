@@ -7,7 +7,7 @@
 
 ## Installation
 
-1. Download latest release from [here](https://github.com/vaner-org/viewpad/releases/latest) or [AssetLib](https://godotengine.org/asset-library/asset/XXXX) and place it in your project's `addons` folder.
+1. Download latest release from [here](https://github.com/vaner-org/viewpad/releases/latest) or [AssetLib](https://godotengine.org/asset-library/asset/4824) and place it in your project's `addons` folder.
 2. In the toolbar, navigate to Project > Project Settings > Plugins and enable Viewpad.
 
 ## Usage
@@ -18,7 +18,7 @@
 
 ## Configure
 
-In in your project directory's `addons > viewpad > plugin.gd`, you may
+In your project directory's `addons > viewpad > plugin.gd`, you may
 * Change the value of `MOVE_SPEED` to any other `float`.
 * Change the value of `LOOK_SPEED` to any other `float`.
 * Change the value of `DEADZONE` to any other `float`.
