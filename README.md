@@ -16,6 +16,9 @@
 * Use the left stick to move the camera in local XZ space.
 * Use the triggers to ascend or descend the camera in local Y space.
 
+> [!WARNING]
+> If your camera is stuck, double-click on any 3D node icon in the "Scene" dock to reset it.
+
 ## Configure
 
 In your project directory's `addons > viewpad > plugin.gd`, you may
